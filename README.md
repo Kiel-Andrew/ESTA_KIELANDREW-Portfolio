@@ -7,6 +7,8 @@
   <li>Click the current repository</li>
   <li>Click "Add" >> "Clone Repository"</li>
   <li>Choose the repositories you want to clone</li>
+  <li>Place your files to any file directory you want</li>
+  <li>Go to Visual Studio Code to see if the repository is in there</li>
 </ol>
 
 <h3>iii. HTML elements and tags</h3>
