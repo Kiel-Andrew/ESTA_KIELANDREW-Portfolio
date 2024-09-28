@@ -3,14 +3,14 @@
 <p>This portfolio contains the authors personal information, background/skills in programming, programming language, and projects</p>
 <h3>ii. Clone Repository</h3>
 <ol>
-  <li>Go to repository</li>
-  <li>Press the "<> Code" besides Add File</li>
-  <li>Copy the HTTPS link</li>
+  <li>Go to GitHub Desktop</li>
+  <li>Click the current repository</li>
+  <li>Click "Add" >> "Clone Repository"</li>
+  <li>Choose the repositories you want to clone</li>
 </ol>
 
 <h3>iii. HTML elements and tags</h3>
 <ul>
-  <p>Elements used:</p>
   <li>Paragraphs: Simply used for informations in a paragraph form</li>
   <li>Headers: To highlight and define the title and its sections</li>
   <li>Image: Just to insert pictures as profiles</li>
